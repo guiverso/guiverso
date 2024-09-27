@@ -1,6 +1,19 @@
-## about me
+# Oi! eu sou guilherme
+estudante do IFRN, escritor e artista
 
-- 🌱 I’m currently learning HTML5, CSS3, Python
-- 📫 How to reach me: Guilhermeversor@gmail.com
-- 😄 Pronouns: Ele/dele
-- ⚡ Fun fact: i have ADHD
+## Habilidoso com:
+- Python
+- SQL
+- C++
+- GML
+
+## aprendendo:
+- HTML
+- CSS
+- Javascript
+- C#
+
+## Também faço: 
+- Sprites
+- Design (corel draw)
+- edição de vídeo (Vegas pro)
