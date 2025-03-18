@@ -3,17 +3,16 @@ estudante do IFRN, escritor e artista
 
 ## Habilidoso com:
 - Python
-- SQL
-- C++
+- PostgreSQL 
 - GML
-
-## aprendendo:
 - HTML
 - CSS
+
+## aprendendo:
 - Javascript
-- C#
+- Node.JS
 
 ## Também faço: 
 - Sprites
 - Design (corel draw)
-- edição de vídeo (Vegas pro)
+- edição de vídeo (Vegas pro, Capcut)
